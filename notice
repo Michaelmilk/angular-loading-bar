@@ -1,0 +1,7 @@
+if you want to position the spinner, you just need do as author's description, 
+
+but if you want to position loadingBar as you like, you must modify or the CSS
+
+selector "#loading-bar .bar", correct the "position" property from  " position: fixed;"
+
+to " position: relative;" !
